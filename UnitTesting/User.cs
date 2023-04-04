@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace UnitTesting_UserRegistration
+namespace UnitTesting
 {
     public class User
     {
